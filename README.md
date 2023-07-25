@@ -1,2 +1,2 @@
-# Open-World-Vehicle-Building-Game-Tracker
-Issue Tracker For "Open World Vehicle Building Game" (unnamed)
+# Marine Technology Tracker
+Issue Tracker For "Marine Technology"
