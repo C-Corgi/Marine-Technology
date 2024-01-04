@@ -1,7 +1,7 @@
 ---
 name: Bug report
 about: Create a report to help us improve
-title: "[BUG]"
+title: "[BUG] *Put a short summary of the mod here*"
 labels: bug
 assignees: C-Corgi
 
